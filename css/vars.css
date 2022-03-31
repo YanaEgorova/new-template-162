@@ -1,0 +1,22 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #e3e3e3;
+  --second-brand-color: #ffa500;
+  --third-brand-color: #2b2b2b;
+  /* --fourth-brand-color: #ffa500; */
+
+
+  --main-font:  'Josefin Sans';
+  --title-font:  'Josefin Sans Bold';
+
+  font-size: 62.5%;
+}
